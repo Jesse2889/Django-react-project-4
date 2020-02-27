@@ -1,0 +1,32 @@
+[
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "name": "Jordan Retro 4 columbia",
+    "price": "\u00a3180",
+    "image": "https://cms-cdn.thesolesupplier.co.uk/2017/08/Jordan-4-Columbia-Official-Photos-1.jpeg",
+    "description": "The Nike Air Jordan 4 Columbia is set to release next year as part of Jordan Brands \u201cremastered\u201d releases. It is dressed in a White and Legend Blue ..."
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "name": "nike air max 90",
+    "price": "\u00a3100",
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhMVFhUXGBgYGBcYFxcaFhgYFxYWGBcYFxodHSggGBolGxgYITEhJSkrLy4uFx8zODMsNygtLisBCgoKDg0OGhAQGi0fHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tK//AABEIARgAtAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAAIDBAYHAQj/xABME",
+    "description": "The Nike Air Jordan 4 Columbia is set to release next year as part of Jordan Brands \u201cremastered\u201d releases. It is dressed in a White and Legend Blue ..."
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "name": "g",
+    "price": "\u00a3100",
+    "image": "https://3ner1e34iilsjdn1qohanunu-wpengine.netdna-ssl.com/wp-content/uploads/2013/08/Jamaican-bun-cheese-sandwich-750x368.jpg",
+    "description": "The Nike Air Jordan 4 Columbia is set to release next year as part of Jordan Brands \u201cremastered\u201d releases. It is dressed in a White and Legend Blue ..."
+  }
+}
+]
